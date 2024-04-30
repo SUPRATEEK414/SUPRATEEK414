@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/suprateek414" target="blank"><img src="https://img.shields.io/twitter/follow/suprateek414?logo=twitter&style=for-the-badge" alt="suprateek414" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, DSA, and exploring the mathematical concepts in depth.**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, and exploring the mathematical concepts in depth.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SUPRATEEK414](https://github.com/SUPRATEEK414)
 
